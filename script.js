@@ -71,4 +71,5 @@ document
     }
   });
 
-weather.fetchWeather("appleton", "metric");
+  //default city
+weather.fetchWeather("seattle", "metric");
